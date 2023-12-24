@@ -1,4 +1,4 @@
-package com.github.carlwilk32;
+package com.github.carlwilk32.sdl.image;
 
 import com.sun.jna.Pointer;
 import com.sun.jna.Structure;
